@@ -1,0 +1,2 @@
+mkdir commandeblock
+astalavista
