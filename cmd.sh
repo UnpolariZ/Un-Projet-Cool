@@ -1,2 +1,3 @@
 mkdir commandeblock
 astalavista
+astalavista
